@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 { color: blue;
+text-align: center;}
+
+.inform { text-align: center;
+border-bottom: 2px solid black;}
+
+.profsum { text-align: center;}
+
+img {width: 25%;
+margin: auto;
+display: block;}
